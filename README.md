@@ -8,3 +8,5 @@ EPG地址 http://epg.51zmt.top:8000/
 安卓播放器 IPTV PRO perfect player
 
 https://github.com/iptv-org/iptv
+https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
+https://github.com/kimcrowing/IPTV
