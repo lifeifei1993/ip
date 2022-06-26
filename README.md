@@ -1,4 +1,5 @@
-链接 https://raw.githubusercontent.com/lifeifei1993/lifeifei1993.github.io/master/iptv.m3u
+链接 https://raw.githubusercontent.com/lifeifei1993/ip/master/iptv.m3u
+
 
 EPG源 http://epg.51zmt.top:8000/e.xml
 
