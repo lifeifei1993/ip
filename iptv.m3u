@@ -2,22 +2,38 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
 https://live.olelive.com:6443/live/cctv1hd_1080/hls.m3u8
 ##http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
+##http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经
 https://live.olelive.com:6443/live/cctv2hd_1080/hls.m3u8
+#http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
+
+
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3 综艺
 https://live.olelive.com:6443/live/cctv3hd_1080/hls.m3u8
+##http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+
+
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 中文国际
 https://live.olelive.com:6443/live/cctv4hd_1080/hls.m3u8
+##http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
+
+
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV-5体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育
 https://live.olelive.com:6443/live/cctv5hd_1080/hls.m3u8
 #http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
 #http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 #http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 https://live.olelive.com:6443/live/cctv5phd_1080/hls.m3u8
 ##http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 ##http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+#http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 电影
 https://live.olelive.com:6443/live/cctv6hd_1080/hls.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7 国防军事
@@ -26,19 +42,40 @@ https://live.olelive.com:6443/live/cctv7hd_1080/hls.m3u8
 https://live.olelive.com:6443/live/cctv8hd_1080/hls.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9 纪录
 https://live.olelive.com:6443/live/cctv9hd_1080/hls.m3u8
+#http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8
+
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10 科教
 https://live.olelive.com:6443/live/cctv10hd_1080/hls.m3u8
+#http://117.148.179.175/PLTV/88888888/224/3221231666/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11 戏曲
 https://live.olelive.com:6443/live/cctv11hd_1080/hls.m3u8
+#http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12 社会与法
 https://live.olelive.com:6443/live/cctv12hd_1080/hls.m3u8
+#http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 新闻
 https://live.olelive.com:6443/live/cctv13hd_1080/hls.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+
+
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14 少儿
 https://live.olelive.com:6443/live/cctv14hd_1080/hls.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15 音乐
 https://live.olelive.com:6443/live/cctv15hd_1080/hls.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克频道
+http://117.148.179.157/PLTV/88888888/224/3221233406/index.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业农村
 https://live.olelive.com:6443/live/cctv17hd_1080/hls.m3u8
@@ -100,8 +137,16 @@ http://yd-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 https://live.olelive.com:6443/live/zjhd_1080/hls.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视1080p
 https://live.olelive.com:6443/live/bjhd_1080/hls.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+#http://59.44.10.113:9901/tsfile/live/1012_1.m3u8
+#http://39.135.138.59:18890/PLTV/88888910/224/3221225674/index.m3u8
+
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视1080p
 https://live.olelive.com:6443/live/shanghai_1080/hls.m3u8
+#http://183.207.255.197/live/program/live/hddfws/2300000/mnf.m3u8
+#http://59.44.10.113:9901/tsfile/live/1055_1.m3u8
+#http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视1080p
 https://live.olelive.com:6443/live/jshd_1080/hls.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视1080p
@@ -112,6 +157,14 @@ https://live.olelive.com:6443/live/shenzhenhd_1080/hls.m3u8
 https://live.olelive.com:6443/live/gdhd_1080/hls.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视1080p
 https://live.olelive.com:6443/live/ahhd_1080/hls.m3u8
+#http://117.148.179.177/PLTV/88888888/224/3221230215/index.m3u8
+#http://183.207.255.197/live/program/live/ahwshd/2300000/mnf.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+#http://59.44.10.113:9901/tsfile/live/1057_1.m3u8
+#http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视1080p
 https://live.olelive.com:6443/live/tjhd_1080/hls.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视720p
@@ -138,6 +191,10 @@ http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesst
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/gzws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视1080p
 http://183.207.255.207/live/program/live/dnwshd/4000000/mnf.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+#http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
+
+
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视1080p
 http://183.207.255.207/live/program/live/jxwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视720p
@@ -146,6 +203,8 @@ http://stream1.hnntv.cn/lywsgq/sd/live.m3u8?_upt=bb6ae6bc1656190464
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ynws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视720p
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/btws/1300000/mnf.m3u8
+#http://117.148.179.162/PLTV/88888888/224/3221231469/index.m3u8
+
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视720p
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xmws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视720p
@@ -201,8 +260,12 @@ https://live.olelive.com:6443/live/eltasport1hd_1080/hls.m3u8
 https://live.olelive.com:6443/live/eltasport2hd_1080/hls.m3u8
 
 
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png",TVB星河
+http://113.64.147.116:808/hls/135/index.m3u8
+
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+http://113.64.147.116:808/hls/67/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GyM0ORZ.png" group-title="港澳台",TVBJ1
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
@@ -764,3 +827,499 @@ http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVshandon
 http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVyunnanstv/1.m3u8
 #EXTINF:-1 group-title="网络",魅力黑龙江
 http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVheilongjiangstv/1.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",===不能看===
+http://epg.112114.xyz/douyu/69197010000
+#EXTINF:-1 group-title="斗鱼",15.喜剧经典
+http://epg.112114.xyz/douyu/9650887
+#EXTINF:-1 group-title="斗鱼",16.豆瓣高分
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 group-title="斗鱼",22.经典怀旧系列
+http://epg.112114.xyz/douyu/8663752
+#EXTINF:-1 group-title="斗鱼",26.霍格影片
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1 group-title="斗鱼",27.可乐电影
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 group-title="斗鱼",29.奶虫恐怖电影
+http://epg.112114.xyz/douyu/263824
+#EXTINF:-1 group-title="斗鱼",31.经典怀旧
+http://epg.112114.xyz/douyu/10180265
+#EXTINF:-1 group-title="斗鱼",35.恐怖专场
+http://epg.112114.xyz/douyu/7353112
+#EXTINF:-1 group-title="斗鱼",37.恐怖动作片
+http://epg.112114.xyz/douyu/5129261
+#EXTINF:-1 group-title="斗鱼",40.科幻系列
+http://epg.112114.xyz/douyu/8107217
+#EXTINF:-1 group-title="斗鱼",42.星星华语
+http://epg.112114.xyz/douyu/10254810
+#EXTINF:-1 group-title="斗鱼",43.变种人电影
+http://epg.112114.xyz/douyu/9651304
+#EXTINF:-1 group-title="斗鱼",45.小宇60帧
+http://epg.112114.xyz/douyu/323876
+#EXTINF:-1 group-title="斗鱼",47.华语动作电影
+http://epg.112114.xyz/douyu/1504768
+#EXTINF:-1 group-title="斗鱼",48.恐怖电影
+http://epg.112114.xyz/douyu/310926
+#EXTINF:-1 group-title="斗鱼",54.高帧影片
+http://epg.112114.xyz/douyu/6763930
+#EXTINF:-1 group-title="斗鱼",57.网神影厅
+http://epg.112114.xyz/douyu/5081118
+#EXTINF:-1 group-title="斗鱼",60.枪战影片
+http://epg.112114.xyz/douyu/10240510
+#EXTINF:-1 group-title="斗鱼",61.国外电影
+http://epg.112114.xyz/douyu/9683979
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-??冰冰??
+http://epg.112114.xyz/douyu/74374
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-??奶瓶??
+http://epg.112114.xyz/douyu/6655271
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-??小U??
+http://epg.112114.xyz/douyu/96577
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-??小饼??
+http://epg.112114.xyz/douyu/1735337
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-??小迷妹??
+http://epg.112114.xyz/douyu/9717093
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-??周杰伦??
+http://epg.112114.xyz/douyu/7537296
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-?救救小鸭吧?
+http://epg.112114.xyz/douyu/7925840
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-?绿烟?
+http://epg.112114.xyz/douyu/9811596
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-?诺诺陪看?
+http://epg.112114.xyz/douyu/252536
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-【鯊籽】
+http://epg.112114.xyz/douyu/544263
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-24h恐喜科灾
+http://epg.112114.xyz/douyu/3346305
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-339影院
+http://epg.112114.xyz/douyu/1274132
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-4K R
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-90年代
+http://epg.112114.xyz/douyu/10062652
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-Firend黎伽嘛
+http://epg.112114.xyz/douyu/8603174
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-IMAX影厅
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-Liz陪看
+http://epg.112114.xyz/douyu/7254536
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-阿亦影院
+http://epg.112114.xyz/douyu/8271651
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-爱情公寓
+http://epg.112114.xyz/douyu/6863367
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-拌果条丶
+http://epg.112114.xyz/douyu/8168353
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-邦德
+http://epg.112114.xyz/douyu/9292499
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-贝爷影厅
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-贝爷影厅1
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-博然q
+http://epg.112114.xyz/douyu/456761
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-菜园小饼
+http://epg.112114.xyz/douyu/7701735
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-仓鼠星
+http://epg.112114.xyz/douyu/5427842
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-持盾的猫咪
+http://epg.112114.xyz/douyu/10057561
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-大熊灬style
+http://epg.112114.xyz/douyu/9960465
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-等你一起玩
+http://epg.112114.xyz/douyu/2714
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-电视电影
+http://epg.112114.xyz/douyu/9844562
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-东齐君
+http://epg.112114.xyz/douyu/7713588
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-二锅头ii
+http://epg.112114.xyz/douyu/8911752
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-港电影院
+http://epg.112114.xyz/douyu/9826611
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-港剧直播
+http://epg.112114.xyz/douyu/4549169
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-工藤媛子
+http://epg.112114.xyz/douyu/6003761
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-鬼片电影
+http://epg.112114.xyz/douyu/5489341
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-国产青春
+http://epg.112114.xyz/douyu/5423
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-国外科幻
+http://epg.112114.xyz/douyu/3990812
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-华语点歌台
+http://epg.112114.xyz/douyu/3186217
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-华语电影
+http://epg.112114.xyz/douyu/9693738
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-华语厅
+http://epg.112114.xyz/douyu/925724
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-华语院线
+http://epg.112114.xyz/douyu/5581257
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-简单緈畐
+http://epg.112114.xyz/douyu/508540
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-进击的来福
+http://epg.112114.xyz/douyu/9960662
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-经典电影
+http://epg.112114.xyz/douyu/9454126
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-经典港剧
+http://epg.112114.xyz/douyu/954777
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-经典港片系列
+http://epg.112114.xyz/douyu/6807978
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-经典巨制
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-经典武侠剧轮播
+http://epg.112114.xyz/douyu/9957951
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-军旅动作
+http://epg.112114.xyz/douyu/431460
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-看戏不寂寞
+http://epg.112114.xyz/douyu/10001180
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-科幻奇幻
+http://epg.112114.xyz/douyu/9984624
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-恐怖电影
+http://epg.112114.xyz/douyu/9275635
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-老表影院
+http://epg.112114.xyz/douyu/9838536
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-梁十一
+http://epg.112114.xyz/douyu/7270927
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-林林影院
+http://epg.112114.xyz/douyu/9652323
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-林正英
+http://epg.112114.xyz/douyu/218859
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-刘德华
+http://epg.112114.xyz/douyu/2516864
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-陆小鸡
+http://epg.112114.xyz/douyu/6919701
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-鹿九酱
+http://epg.112114.xyz/douyu/7136517
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-麓山迷踪
+http://epg.112114.xyz/douyu/4505431
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-马大姐
+http://epg.112114.xyz/douyu/5658951
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-漫威DC电影
+http://epg.112114.xyz/douyu/9803994
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-萌牛奶
+http://epg.112114.xyz/douyu/7494871
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-妞仔Niu
+http://epg.112114.xyz/douyu/8211997
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-女神金
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-破案-推理-悬疑
+http://epg.112114.xyz/douyu/6091425
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-蒲蚂蚱
+http://epg.112114.xyz/douyu/6079455
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-千部经典
+http://epg.112114.xyz/douyu/7882691
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-乔乔儿
+http://epg.112114.xyz/douyu/2519292
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-亲奶瓶
+http://epg.112114.xyz/douyu/6546908
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-清晰林正英
+http://epg.112114.xyz/douyu/7356023
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-人观影集
+http://epg.112114.xyz/douyu/8987492
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-软糖开心
+http://epg.112114.xyz/douyu/7842226
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-外号凤雏
+http://epg.112114.xyz/douyu/9344571
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-晚晚Vivi
+http://epg.112114.xyz/douyu/8861179
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-王小可
+http://epg.112114.xyz/douyu/8120709
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-网神影厅
+http://epg.112114.xyz/douyu/508118
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-问天龙
+http://epg.112114.xyz/douyu/1256794
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-喜剧电影
+http://epg.112114.xyz/douyu/9292492
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-戏剧
+http://epg.112114.xyz/douyu/9652323443
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-肖胜350
+http://epg.112114.xyz/douyu/7338853
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-小鸽陪看
+http://epg.112114.xyz/douyu/3928
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-小剧场
+http://epg.112114.xyz/douyu/851249
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-小梦静
+http://epg.112114.xyz/douyu/2288676
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-小丸子
+http://epg.112114.xyz/douyu/8986148
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-小小亭长
+http://epg.112114.xyz/douyu/5802446
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-小阳聪
+http://epg.112114.xyz/douyu/7673566
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-新仔点播
+http://epg.112114.xyz/douyu/10060815
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-妍霏Ariel
+http://epg.112114.xyz/douyu/9659797
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-译制国语
+http://epg.112114.xyz/douyu/2436390
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-英叔九叔
+http://epg.112114.xyz/douyu/10066371
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-鱼宝好困
+http://epg.112114.xyz/douyu/1165374
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-鱼小丸梓
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-宇哥Rebirth
+http://epg.112114.xyz/douyu/413573
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-遇见小An
+http://epg.112114.xyz/douyu/10015321
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",斗鱼-粤语频道
+http://epg.112114.xyz/douyu/2466104
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://www.tvyan.com/uploads/dianshi/douyu.jpg",历史 军事
+http://epg.112114.xyz/douyu/4870914
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",----
+http://121.51.249.48/txdirect.hls.huya.com/huyalive/1199591052044-1199591052044-5562740538249052160-2399182227544-10057-A-0-1.m3u8?wsSecret=c894909e5fa0d0aa28b46709307b342d&wsTime=6279273c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",----
+http://txtest-xp2p.p2p.huya.com/src/1199591052044-1199591052044-5562740538249052160-2399182227544-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",80后脱口秀
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.m3u8?wsSecret=51c9cbc80e4d0b72c6fecdb9422a925f&wsTime=627922d6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",80后脱口秀
+http://txtest-xp2p.p2p.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",GDG相声
+http://txtest-xp2p.p2p.huya.com/src//64310431-64310431-276211197936664576-128744318-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",爱情公寓
+http://111.6.244.41/tx.hls.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1-imgplus.m3u8?wsSecret=380663de73f92d8fbdd58b1f7cdff512&wsTime=626f8f78&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An6%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",爱情公寓
+http://txtest-xp2p.p2p.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",奥特曼
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1199598462404-1199598462404-5594567792100638720-2399197048264-10057-A-0-1.m3u8?wsSecret=2f38c45154fe4f88ab6a6f2ad4a4f593&wsTime=6279171f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",奥特曼
+http://txtest-xp2p.p2p.huya.com/src/1199598462404-1199598462404-5594567792100638720-2399197048264-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",曾江
+http://111.6.244.41/txdirect.hls.huya.com/huyalive/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8?wsSecret=e2a4dc70129eea55a4548fa8b721098d&wsTime=626d47be&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",曾江
+http://txtest-xp2p.p2p.huya.com/src/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",茶啊二中
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/28596569-28596569-122821328632807424-2633424538-10057-A-0-1.m3u8?wsSecret=cff5b90ba861b69ce6ff0ae2ad07379c&wsTime=62792161&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",茶啊二中
+http://txtest-xp2p.p2p.huya.com/src/28596569-28596569-122821328632807424-2633424538-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",陈佩斯
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1524418065-1524418065-6547325734606602240-3048959586-10057-A-0-1.m3u8?wsSecret=e145eb0300c43c118b41018926e9f8a2&wsTime=62791e1d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az16%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*,
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",陈佩斯
+http://txtest-xp2p.p2p.huya.com/src/1524418065-1524418065-6547325734606602240-3048959586-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",成龙
+http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",成龙
+http://121.51.249.48/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8?wsSecret=f089f45fcd2509301fd35350a638ef0e&wsTime=626d261f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Atyeic12%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",成龙历险记
+http://36.101.206.161/tx.hls.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.m3u8?wsSecret=9b6d4ec2a1fc3dec369c279fa5bf216b&wsTime=626f8eab&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",炊事班的故事
+http://111.6.244.41/txdirect.hls.huya.com/huyalive/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.m3u8?wsSecret=3e1396100d903f5906a943d6206e3ba1&wsTime=626d4231&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",炊事班的故事
+http://txtest-xp2p.p2p.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",春晚小品
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.m3u8?wsSecret=26b54ad0ad9b555105d58ee088ababe6&wsTime=626d3e88&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",春晚小品
+http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",大宅门
+http://121.51.249.48/txdirect.hls.huya.com/huyalive/1250011-1250011-5368756364640256-2789253858-10057-A-0-1.m3u8?wsSecret=676ecef9e50773bad3e6f4d54f552fb6&wsTime=62708bfa&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Anc4%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",大宅门
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253858-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",地下交通站
+http://111.6.244.41/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.m3u8?wsSecret=43bd92e3b472fced1cf5c4353fa20755&wsTime=626d1bb7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az27%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",电视剧
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1-imgplus.m3u8?wsSecret=5c10fadedc5ba52e052381b8e38dd0b1&wsTime=626d3cc7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An112%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",电视剧
+http://txtest-xp2p.p2p.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",电视剧
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1394575538-1394575538-5989656327511605248-2789274532-10057-A-0-1.m3u8?wsSecret=eae2da87fb9dcdf3e8fd53659100142b&wsTime=62791fee&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*,
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",电视剧
+http://txtest-xp2p.p2p.huya.com/src/1394575538-1394575538-5989656327511605248-2789274532-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",动画相声
+http://txtest-xp2p.p2p.huya.com/src/1671404305-1671404305-7178626828368609280-3342932066-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",封神榜
+http://121.51.249.48/tx.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8?wsSecret=b93eb21b44ef2d5a3525377906d5623f&wsTime=626d3325&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",搞笑喜剧
+http://121.51.249.48/tx.hls.huya.com/huyalive/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.m3u8?wsSecret=858482ead8826100ad2c4ef989f9b3d7&wsTime=626f9a6e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az27%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",搞笑喜剧
+http://txtest-xp2p.p2p.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",搞笑一家人
+http://36.101.206.161/txdirect.hls.huya.com/huyalive//1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.m3u8?wsSecret=cd1570cb7dd23435a9b85bfa7e544dca&wsTime=626d3bdd&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",搞笑一家人
+http://txtest-xp2p.p2p.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",搞笑一家人
+http://121.51.249.48/tx.hls.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.m3u8?wsSecret=a0039497195ef81bbb9bf861c19f60c1&wsTime=626f96ad&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az27%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",鬼吹灯
+http://121.51.249.48/txdirect.hls.huya.com/huyalive/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8?wsSecret=6de8ed5f7425af1b1caaa346ece30334&wsTime=626f9b47&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An4%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",鬼吹灯
+http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",好先生
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.m3u8?wsSecret=148d72bb33b73643605564cb5b3b1dd3&wsTime=626d3a26&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",好先生
+http://txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",贺岁电影
+http://111.6.244.41/txdirect.hls.huya.com/huyalive/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus.m3u8?wsSecret=e3675f286be996ad680efabf52f2bf2d&wsTime=626d4110&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An4%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",贺岁电影
+http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",黑帮电影
+http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",欢乐颂
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1524418105-1524418105-6547325906405294080-3048959666-10057-A-0-1.m3u8?wsSecret=a3d2c61f96e1d05bb42d69338ad8f812&wsTime=626f8d80&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Anc2%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",欢乐颂
+http://txtest-xp2p.p2p.huya.com/src/1524418105-1524418105-6547325906405294080-3048959666-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",活佛济公
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.m3u8?wsSecret=2bd1d4a14fa277fcd424b9f8c8732e3d&wsTime=626f8ce9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Atyeic12%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",活佛济公
+http://txtest-xp2p.p2p.huya.com/src/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",家有儿女
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.m3u8?wsSecret=08e28fdf429bcf67b5a5acf865113a38&wsTime=626d391b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",家有儿女
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",街访Show
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/60637426-60637426-260435761583620096-2125253048-10057-A-0-1.m3u8?wsSecret=824aa7ac99a84bd2f3a390e9e00a7705&wsTime=6279237f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",街访Show
+http://txtest-xp2p.p2p.huya.com/src/60637426-60637426-260435761583620096-2125253048-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",金庸
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8?wsSecret=acf53cb1806797a6d5f6007146d42788&wsTime=62792077&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx91%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*,
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",经典影院
+http://121.51.249.48/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",康熙王朝
+http://121.51.249.48/tx.hls.huya.com/huyalive/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.m3u8?wsSecret=97cb8e45a256c561d6828efe31ee8374&wsTime=626f9dd3&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az16%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",康熙王朝
+http://txtest-xp2p.p2p.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",康熙微服私访
+http://121.51.249.48/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.m3u8?wsSecret=0c9d222b16011d0726d35b996356baf4&wsTime=626f9d05&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az27%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*,
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",康熙微服私访
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",林正英
+http://111.6.244.41/tx.hls.huya.com/src//1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8?wsSecret=a92cb0b623ef37409dca328f66a8a3f6&wsTime=626d14f0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx91%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",刘德华
+http://36.101.206.161/txdirect.hls.huya.com//huyalive/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8?wsSecret=603f2f2a039ddff4f2cff1dddf8c81fa&wsTime=626d3389&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az16%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",刘德华
+http://121.51.249.48/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8?wsSecret=603f2f2a039ddff4f2cff1dddf8c81fa&wsTime=626d3389&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az16%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",龙门镖局
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.m3u8?wsSecret=62a0ad1c861bd4783d8b5d95502aed41&wsTime=626d3c38&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",龙门镖局
+http://txtest-xp2p.p2p.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",龙门镖局
+http://36.101.206.161/txdirect.hls.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.m3u8?wsSecret=986324c89d3b04337dd0131a97693822&wsTime=626d34fd&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",龙珠Z
+http://111.6.244.41/tx.hls.huya.com/src//146501201-146501201-629217867119722496-293125858-10057-A-0-1.m3u8?wsSecret=f46623b68a85f97c88e3997543e95c39&wsTime=626d3534&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx91%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",龙珠Z
+http://txtest-xp2p.p2p.huya.com/src/146501201-146501201-629217867119722496-293125858-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",龙珠Z
+http://36.101.206.161/txdirect.hls.huya.com/huyalive//146501201-146501201-629217867119722496-293125858-10057-A-0-1.m3u8?wsSecret=f46623b68a85f97c88e3997543e95c39&wsTime=626d3534&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx91%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",芈月传
+http://121.51.249.48/txdirect.hls.huya.com/huyalive/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.m3u8?wsSecret=89c1005bc476ea0e48ba263e47edcf8a&wsTime=626f9f48&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*,
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",芈月传
+http://txtest-xp2p.p2p.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",民兵葛二蛋
+http://111.6.244.41/tx.hls.huya.com/src//1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.m3u8?wsSecret=093f41940e4da8860fbf6935dfdd24bc&wsTime=626d20cf&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",民兵葛二蛋
+http://txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",牛郎织女
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1.m3u8?wsSecret=cb630f7de3bb8046ccc1bfd5531d0f51&wsTime=62791907&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Atyeic12%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",牛郎织女
+http://txtest-xp2p.p2p.huya.com/src/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",女神电影
+http://121.51.249.48/txdirect.hls.huya.com/huyalive/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1-imgplus.m3u8?wsSecret=3dc0e68578d5bd44ba4bdb8022bca999&wsTime=62792887&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Aj10%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",女神电影
+http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",秦
+http://121.51.249.48/txdirect.hls.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.m3u8?wsSecret=f0803daef7f6ffcaf0f3d27ea947c14c&wsTime=626f90df&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",秦
+http://txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",庆余年
+http://111.6.244.41/tx.hls.huya.com/src//1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.m3u8?wsSecret=ebe231d419100b210257bd755c8ec029&wsTime=626d3619&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An6%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",庆余年
+http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",庆余年
+http://36.101.206.161/txdirect.hls.huya.com/huyalive//1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.m3u8?wsSecret=ebe231d419100b210257bd755c8ec029&wsTime=626d3619&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An6%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",三国
+http://111.6.244.41/tx.hls.huya.com/src//1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1-imgplus.m3u8?wsSecret=5873fcaccb09d27ec3c4216001fdb927&wsTime=626d2142&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx92%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",三国
+http://txtest-xp2p.p2p.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",神雕侠侣
+http://121.51.249.48/tx.hls.huya.com/src/1423787869-1423787869-6115122333796532224-2847699194-10057-A-0-1-imgplus.m3u8?wsSecret=ecfbc615c959ce9a4f375d9a892f42de&wsTime=626fae39&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*,
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",神雕侠侣
+http://txtest-xp2p.p2p.huya.com/src/1423787869-1423787869-6115122333796532224-2847699194-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",神探狄仁杰
+http://36.101.206.161/tx.hls.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.m3u8?wsSecret=b45a376c06b5c21c9db33265b0fef6a3&wsTime=626f93fb&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",神探狄仁杰
+http://txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",神探狄仁杰3
+http://111.6.244.41/tx.hls.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1-imgplus.m3u8?wsSecret=8778aa7ab25a847685034e0630bc7a3b&wsTime=626d357a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ax3%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",神探狄仁杰3
+http://txtest-xp2p.p2p.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",神探狄仁杰3
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1-imgplus.m3u8?wsSecret=8778aa7ab25a847685034e0630bc7a3b&wsTime=626d357a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ax3%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",沈腾
+http://111.6.244.41/txdirect.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.m3u8?wsSecret=7ae42421c3c25d869b759b75cbd44d57&wsTime=626d43de&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",数码评测
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1099531752622-1099531752622-86435555407036416-2199063628700-10057-A-0-1.m3u8?wsSecret=945a9a1c02fe32edfec09d6e0a382b19&wsTime=62792316&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",数码评测
+http://txtest-xp2p.p2p.huya.com/src/1099531752622-1099531752622-86435555407036416-2199063628700-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",四大才子
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.m3u8?wsSecret=ee891cf6958b818c49d9d02afdc81678&wsTime=62791da5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",宋小宝
+http://121.51.249.48/txdirect.hls.huya.com/huyalive/1449584077-1449584077-6225916203517345792-2847687612-10057-A-0-1.m3u8?wsSecret=12d21002e0b2876ea58eb2f2d7bd86ac&wsTime=627928f7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",宋小宝
+http://txtest-xp2p.p2p.huya.com/src/1449584077-1449584077-6225916203517345792-2847687612-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",孙红雷
+http://111.6.244.41/tx.hls.huya.com/huyalive/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8?wsSecret=51b46bcc8a7c5049f2fcf6f15b7b255a&wsTime=626d4876&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An111%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",孙红雷
+http://txtest-xp2p.p2p.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",唐唐
+http://121.51.249.48/txdirect.hls.huya.com/huyalive/22303913-22303913-95794576907829248-4413173724-10057-A-0-1.m3u8?wsSecret=5f3e8fe11df0d2a81851d8bf2c1436f9&wsTime=6279186e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad2%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",唐唐
+http://txtest-xp2p.p2p.huya.com/src/22303913-22303913-95794576907829248-4413173724-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",天龙八部
+http://121.51.249.48/txdirect.hls.huya.com/huyalive/1423782083-1423782083-6115097483115757568-2847687622-10057-A-0-1.m3u8?wsSecret=8acbdc059960c1febb2ce4e81457e7bf&wsTime=626f95e6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs6%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",天龙八部
+http://txtest-xp2p.p2p.huya.com/src/1423782083-1423782083-6115097483115757568-2847687622-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",王晶
+http://111.6.244.41/txdirect.hls.huya.com/huyalive/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8?wsSecret=2eec247041e960277ce3e5535ec18156&wsTime=62707d53&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Atyeic11%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",韦小宝
+http://111.6.244.41/tx.hls.huya.com/src//1524418114-1524418114-6547325945059999744-3048959684-10057-A-0-1.m3u8?wsSecret=9f98c2c6f94d041745fe48fd5a07d922&wsTime=626d37ef&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",韦小宝
+http://txtest-xp2p.p2p.huya.com/src/1524418114-1524418114-6547325945059999744-3048959684-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",韦小宝
+http://36.101.206.161/txdirect.hls.huya.com/huyalive//1524418114-1524418114-6547325945059999744-3048959684-10057-A-0-1.m3u8?wsSecret=9f98c2c6f94d041745fe48fd5a07d922&wsTime=626d37ef&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",文武英杰
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1-imgplus.m3u8?wsSecret=5692b5b79b024b594bca57ee6e9b6dfa&wsTime=62791f38&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",文武英杰
+http://txtest-xp2p.p2p.huya.com/src/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",文武英杰
+http://111.6.244.41/txdirect.hls.huya.com/huyalive/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1-imgplus.m3u8?wsSecret=5692b5b79b024b594bca57ee6e9b6dfa&wsTime=62791f38&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",文武英杰
+http://121.51.249.48/txdirect.hls.huya.com/huyalive/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1-imgplus.m3u8?wsSecret=5692b5b79b024b594bca57ee6e9b6dfa&wsTime=62791f38&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",吴孟达
+http://121.51.249.48/txdirect.hls.huya.com/huyalive/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8?wsSecret=80c70be5507d226321b851fcb727c64a&wsTime=6279243d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",喜剧电影
+http://121.51.249.48/txdirect.hls.huya.com/huyalive/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.m3u8?wsSecret=0b513d25bfe104e8bc4b876c562385f1&wsTime=6279247c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",相声动画
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.m3u8?wsSecret=d821eb3711873926669c1e941fbfabbf&wsTime=62792248&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",相声动画
+http://txtest-xp2p.p2p.huya.com/src/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",笑傲帮
+http://36.101.206.161/txdirect.hls.huya.com/huyalive/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.m3u8?wsSecret=dd08844529f173b0d619b3371be85f9b&wsTime=6279240b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx91%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",笑傲帮
+http://txtest-xp2p.p2p.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",笑傲江湖
+http://121.51.249.48/txdirect.hls.huya.com/huyalive/1423787824-1423787824-6115122140523003904-2847699104-10057-A-0-1-imgplus.m3u8?wsSecret=57e419796a7ca9501b0191a47c95388d&wsTime=62792561&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad3%3B&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",笑傲江湖
+http://txtest-xp2p.p2p.huya.com/src/1423787824-1423787824-6115122140523003904-2847699104-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",医馆笑传
+http://36.101.206.161/tx.hls.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.m3u8?wsSecret=a60afd8776dd052f444db0a354718823&wsTime=626f8e05&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Awx91%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",医馆笑传
+http://txtest-xp2p.p2p.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",倚天屠龙记
+http://36.101.206.161/txdirect.hls.huya.com/src/1394565214-1394565214-5989611986269241344-2789253884-10057-A-0-1.m3u8?wsSecret=289d00060bee6c5d8fd9194408cdacbc&wsTime=626f9e25&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Az16%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*,
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",倚天屠龙记
+http://txtest-xp2p.p2p.huya.com/src/1394565214-1394565214-5989611986269241344-2789253884-10057-A-0-1.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",游击队
+http://121.51.249.48/txdirect.hls.huya.com/huyalive/1423787821-1423787821-6115122127638102016-2847699098-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",游击队
+http://txtest-xp2p.p2p.huya.com/src/1423787821-1423787821-6115122127638102016-2847699098-10057-A-0-1-imgplus.xs
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",张涵予
+http://121.51.249.48/txdirect.hls.huya.com/huyalive/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.m3u8?wsSecret=bd7ae9de8372bb7129bd5dd0dfa08491&wsTime=627927ed&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
+#EXTINF:-1 group-title="虎牙" tvg-logo="http://www.tvyan.com/uploads/dianshi/huya.jpg",周星驰
+http://111.6.244.41/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8?wsSecret=022028adddacf036a68cf16302912d8d&wsTime=626d1e9c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
